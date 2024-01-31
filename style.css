@@ -34,3 +34,10 @@ input::-webkit-inner-spin-button{
 input:focus{
     outline:none;
 }
+#replayButton{
+    display: none;
+}
+
+#submit:active{
+    background-color: black;
+}
